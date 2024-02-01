@@ -1,5 +1,9 @@
-### Hi there 👋
+# Welcome to my git-page☃️
+### 🎮 GameDev: Unity, GameMaker and another
+### ⌨️ Languages: Python, C++. Little knowledge of C/C#, HTML and CSS
+### 💡 Field of activity: Web, Telegram and Discord bots, gamedev
 
+<!-- Template -->
 <!--
 **Maxx100/Maxx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--Статистика языков в коммитах:-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxx100&theme=solarized_dark) &nbsp;&nbsp;<!--Статистика языков в репозиториях:-->  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxx100&theme=solarized_dark)
+<!--Статистика профиля:-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxx100&theme=solarized_dark)  &nbsp;&nbsp;<!--Данные по коммитам за сутки:-->  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxx100&theme=solarized_dark)
