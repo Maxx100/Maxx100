@@ -1,4 +1,4 @@
-# Welcome to my git-page☃️
+# Welcome☃️
 ### 🎮 GameDev: Unity, GameMaker and another
 ### ⌨️ Languages: Python, C++. Little knowledge of C/C#, HTML and CSS
 ### 💡 Field of activity: Web, Telegram and Discord bots, gamedev
