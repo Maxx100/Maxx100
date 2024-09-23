@@ -1,7 +1,7 @@
 # Welcome☃️
+### ⌨️ Languages: Python, C++, JS. Little knowledge of C/C#, HTML and CSS
+### 💡 Field of activity: Web, Telegram and Discord bots, gamedev, IOS/Android development, backend
 ### 🎮 GameDev: Unity, GameMaker and another
-### ⌨️ Languages: Python, C++. Little knowledge of C/C#, HTML and CSS
-### 💡 Field of activity: Web, Telegram and Discord bots, gamedev
 
 <!-- Template -->
 <!--
